@@ -1,0 +1,11 @@
+# Ignoră executabile
+*.exe
+
+# Ignoră fișiere specifice Visual Studio
+.vs/
+*.sln
+*.pyproj
+__pycache__/
+
+# Ignoră fișiere temporare Office (dacă ai documentația deschisă)
+~$*.docx
